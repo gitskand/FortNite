@@ -16,7 +16,7 @@ const FormList = ({darkMode}) => {
       filteredForms = filteredForms.filter((form) => form.categoryId === selectedCategoryId);
     }
 
-    // Sort forms by name in ascending order
+
     filteredForms.sort((a, b) => a.name.localeCompare(b.name));
 
     return filteredForms;
