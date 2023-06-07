@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FortNite/static/css/main.3d2f3679.css",
-    "main.js": "/FortNite/static/js/main.d01e17d0.js",
+    "main.js": "/FortNite/static/js/main.db95117e.js",
     "index.html": "/FortNite/index.html",
     "main.3d2f3679.css.map": "/FortNite/static/css/main.3d2f3679.css.map",
-    "main.d01e17d0.js.map": "/FortNite/static/js/main.d01e17d0.js.map"
+    "main.db95117e.js.map": "/FortNite/static/js/main.db95117e.js.map"
   },
   "entrypoints": [
     "static/css/main.3d2f3679.css",
-    "static/js/main.d01e17d0.js"
+    "static/js/main.db95117e.js"
   ]
 }
