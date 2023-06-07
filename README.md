@@ -1,5 +1,6 @@
-src STRUCTURE:- src
+FILE STRUCTURE:-
 
+src
 ├── components
 │   ├── CategoryForm.js
 │   ├── FormForm.js
