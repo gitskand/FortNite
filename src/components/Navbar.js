@@ -14,7 +14,7 @@ export default function Navbar() {
         <nav className={`fixed-top navbar navbar-expand-lg navbar-${darkMode ? 'dark' : 'light'} ${darkMode ? 'bg-dark' : 'bg-primary'}`}>
           <div className="container-fluid">
             <a className="navbar-brand" style={{ color: "white" }} href="/">
-              HealthSetGo
+             FortNite
             </a>
             <button
               className="navbar-toggler"
